@@ -1,0 +1,112 @@
+												--- Fundamentos da programação WEB ---
+
+O que é Programação?
+Programação é o ato de programar, capturar e tratar dados em um fluxo de eventos numa ordem lógica gerando tarefas para obter um resultado.
+
+Como programar?
+A programação depende de alguns fatores para ter um resultado em si, são eles:
+
+Algoritmos: Um passo a passo para resolver um problema.
+Lógica de programação: Pensar de uma maneira lógica
+Linguagem: Tem que ter um significado é semelhante a nossa linguagem humana, mas transformada para linguagem de máquina (0 e 1).
+Porque programar?
+Para encontrar soluções e resolver problemas do mundo real.
+
+O que é um programa?
+Conjunto de instruções lógicas.
+
+Questão 1. Um programa pode ser definido como um conjunto de instruções a ser seguido.
+Resposta
+Verdadeiro
+
+Questão 2. Quais são os 3 principais pontos que um dev precisa saber para programar?
+Resposta
+Lógica, algoritmo e linguagem
+
+Questão 3. Selecione a única opção que não representa uma boa forma de como programar.
+Resposta
+Seguir uma sequência aleatória e imprevisível para solucionar o problema.
+
+Questão 4. Qual das opções abaixo representa o principal motivo pelo qual se programa?
+Resposta
+Solucionar problemas do mundo real.
+
+Questão 5. Tratar dados capturados não faz parte do ato de programar.
+Resposta
+Falso.
+
+													--- Lógica de Programação ---
+
+Lógica de programação é uma maneira de pensar seguindo uma sequência lógica de instruções, seja para construir um programa ou até fazer uma tarefa simples.
+
+Maneiras de pensar:
+Programação imperativa:
+Dar ordens - Seguir passos e sequências se preocupa com os detalhes.
+
+Programação declarativa:
+Declaração - Conjunto de regras definidos nem tanto aprofundado.
+
+Como o computador entende?
+O computador não tem capacidade intelectual, ele recebe ordens (instruções) através de linhas de comando (linguagem de programação).
+
+Dar Instruções
+Seguindo uma sequência lógica contendo dados e manipulando o programa, sistema, site.
+
+Questão 1. Como funciona a programação imperativa e a programação declarativa?
+Resposta
+A imperativa está mais relacionada a um passo a passo, dar ordens. Já a declarativa tem maior relação com um conjunto de regras para definir o que o programa deve fazer em cada caso.
+
+Questão 2. De forma geral, o computador não precisa receber ordens (instruções) para realizar o processamento e executar o programa corretamente, basta explicar o problema que ele irá entender e realizar os passos necessários automaticamente.
+Resposta
+Falso
+
+Questão 3. Dar instruções para o computador está diretamente relacionado à lógica de programação. Assumindo que "assistir uma aula do Explorer" seja um conjunto de instruções, assinale a alternativa que não define uma boa instrução:
+Resposta
+Desligar a internet
+
+												--- O que é e como funciona a Web? ---
+												
+Como funciona a Web
+Quando você digita um endereço no seu navegador ex: https://rocketseat.com.br, esse endereço navega até o servidor de DNS (Domain Name System) e esse endereço digitado é convertido para um IP (Internet Protocol). O client (browser) manda uma requisição HTTP (Hypertext Transfer Protocol) para o servidor pedindo uma cópia do site. Todos esses são fornecidos através do protocolo TCP (Transmission Control Protocol). Com todo esse trajeto, você tem uma cópia do site completo em seu navegador.
+
+Questão 1. A Web pode ser entendida como uma rede mundial de computadores.
+Resposta
+Verdadeiro.
+
+Questão 2. Utilizando como base o site `https://rocketseat.com.br`, escolha a opção correta
+Resposta
+HTTP e a sua versão segura, HTTPS, são protocolos utilizados na web.
+
+Questão 3. Servidor é o computador que faz o pedido de um recurso. O cliente é o computador que recebe o pedido e retorna o recurso solicitado.
+Resposta
+Falso
+
+Questão 4. Ainda relacionado ao funcionamento da Web, imagine que foi realizado, do Brasil, um pedido de um recurso localizado na Alemanha. Assinale a alternativa correta:
+Resposta
+Com o IP que o DNS irá fornecer a partir do domínio, é possível localizar o servidor na Web.
+
+Questão 5. Novamente utilizando como base o site `https://rocketseat.com.br`, é incorreto afirmar que:
+Resposta
+rocketseat.com.br é o domínio do site e não é preciso que o DNS retorne o IP correspondente ao domínio para localizar o servidor na Web.
+
+													--- Front-end VS Back-end ---
+
+Nessa aula vimos a diferença entre Front-end e Back-end.
+
+Front-end:
+É a parte visual do nosso site, onde conseguimos ter uma certa interação. Programadores front-end utilizam as tecnologias (HTML, CSS, JavaScript) algumas bibliotecas e frameworks como ReactJS, Angular, Vue e ferramentas (Webpack e Babel)
+
+Back-end:
+Programadores back-end já trabalham mais do lado do servidor, onde está a regra de negócio. Normalmente é utilizada tecnologias como: NodeJS, PHP, Java, Python e banco de dados (mySQL, PostgreSQL, MongoDB).
+
+Questão 1. Frontend normalmente está relacionado ao `client-side`, ou seja, cliente e browser. Já o backend se refere ao `server-side`, ou seja, servidor.
+Resposta
+Verdadeiro.
+
+Questão 2. Em relação às tecnologias associadas ao frontend e backend, assinale a alternativa incorreta:
+Resposta
+Não é possível trabalhar com o JavaScript no backend, apenas no frontend.
+
+Questão 3. `Request` (requisição) pode ser entendido como o pedido que o cliente faz, enquanto o `response` (resposta) é o recurso que o servidor retorna.
+Resposta
+Verdadeiro
