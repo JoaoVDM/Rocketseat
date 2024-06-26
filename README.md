@@ -1,1 +1,3 @@
 # Rocketseat
+
+Rocketseat course exercises
